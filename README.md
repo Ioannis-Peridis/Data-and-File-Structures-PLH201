@@ -1,6 +1,8 @@
 # Data-and-File-Structures-PLH201
-These are the labs of the Course : Statistical-Modeling-and-Pattern-Recognition-THL311
+These are the labs of the Course : Data-and-File-Structures-PLH201
 
-with professor : Michail Zerbakis
+with professor : Antonios Deligiannakis
 
 from: Techincal University Of Crete
+
+Implementation in Java: Linked Lists, Binary Search Trees, Linear Hashing
